@@ -1,6 +1,7 @@
+[![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hello There 👋, I'm Mohamed Atef</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" loop=infinite alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muatef&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muatef" /> </p>
 
@@ -22,7 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mohamed atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamed atef" height="30" width="40" /></a>
+<address>
+ <a href="mailto:webmaster@example.com" target="blank">
+   <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="GMAIL" height="30" width="40" />
+ </a>
+</address>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-atef-02aa69331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-atef-02aa69331/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hamo.atef.963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hamo.atef.963" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/muhamed-atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/muhamed-atef" height="30" width="40" /></a>
